@@ -1,2 +1,2 @@
 # Student-Management-System
-CRUD app using Java and MySQL
+CRUD app using Java and Oracle Database(OJDBC)
