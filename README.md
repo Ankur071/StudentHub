@@ -1,2 +1,6 @@
 # Student-Management-System
-CRUD app using Java and Oracle JDBC.
+
+• Developed a comprehensive CRUD application using Java and Oracle database (OJDBC).
+
+• Managed student records including addition, deletion, and updating of records.
+
