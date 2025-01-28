@@ -1,4 +1,4 @@
-# Student-Management-System
+# StudentHub
 
 • Developed a comprehensive CRUD application using Java and Oracle database (OJDBC).
 
